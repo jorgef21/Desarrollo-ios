@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6CC9685E-7A00-426A-8646-D6A48D805DCA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>nuevaap</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6E3734A3-A743-4F11-B62D-CE9ADCB4F087</key>
+		<string>https://github.com/jorgef21/Desarrollo-ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>nuevaap/nuevaap.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6E3734A3-A743-4F11-B62D-CE9ADCB4F087</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jorgef21/Desarrollo-ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6E3734A3-A743-4F11-B62D-CE9ADCB4F087</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6E3734A3-A743-4F11-B62D-CE9ADCB4F087</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Desarrollo ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>

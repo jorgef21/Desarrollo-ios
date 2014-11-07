@@ -1,0 +1,17 @@
+-crear un enum con los materiales
+-crar la estructura de el dado
+-crar la estructura de la bolsa que contendra los dados
+-crar funcion para inicializar los dados
+-crar funcion para contar los puntos obtenidos por el juego
+-funcion para el numero de jugadores
+-funcion para elegir el tipo de reglas de acuerdo al numero de jugadores
+-funcion para elegir ganadores
+-funcion para revolver los dados
+-funcion para que los primeros dos no sean iguales
+-funcion para el tablero de puntucaciones
+-funcion para el desempate
+-funcion para otorgar hitos
+-funcion para inicializar dados con numero y material
+-funcion para comprobar posiciones disponibles en un plano
+-funcion para verificar si se cumplio con la estructura de un plano
+-funcion para 

@@ -22,7 +22,7 @@
     }
     return self;
 }
-
+@synthesize estados;
 - (void)viewDidLoad
 {
     [super viewDidLoad];

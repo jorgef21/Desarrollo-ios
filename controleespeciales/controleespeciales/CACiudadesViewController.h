@@ -11,5 +11,6 @@
 @interface CACiudadesViewController : UITableViewController
 
 @property NSArray *ciudades;
+@property NSArray *estados;
 
 @end

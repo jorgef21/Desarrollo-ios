@@ -7,152 +7,152 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		84F30D5718CA420A00C6753E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 84F30D5618CA420A00C6753E /* Foundation.framework */; };
-		84F30D5918CA420A00C6753E /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 84F30D5818CA420A00C6753E /* CoreGraphics.framework */; };
-		84F30D5B18CA420A00C6753E /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 84F30D5A18CA420A00C6753E /* UIKit.framework */; };
-		84F30D6118CA420A00C6753E /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 84F30D5F18CA420A00C6753E /* InfoPlist.strings */; };
-		84F30D6318CA420A00C6753E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 84F30D6218CA420A00C6753E /* main.m */; };
-		84F30D6718CA420A00C6753E /* MOAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 84F30D6618CA420A00C6753E /* MOAppDelegate.m */; };
-		84F30D6A18CA420A00C6753E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84F30D6818CA420A00C6753E /* Main.storyboard */; };
-		84F30D6F18CA420A00C6753E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84F30D6E18CA420A00C6753E /* Images.xcassets */; };
-		84F30D7618CA420A00C6753E /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 84F30D7518CA420A00C6753E /* XCTest.framework */; };
-		84F30D7718CA420A00C6753E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 84F30D5618CA420A00C6753E /* Foundation.framework */; };
-		84F30D7818CA420A00C6753E /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 84F30D5A18CA420A00C6753E /* UIKit.framework */; };
-		84F30D8018CA420A00C6753E /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 84F30D7E18CA420A00C6753E /* InfoPlist.strings */; };
-		84F30D8218CA420A00C6753E /* EjemploModalTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 84F30D8118CA420A00C6753E /* EjemploModalTests.m */; };
-		84F30D8D18CA429100C6753E /* MOTableViewControllerAlumnos.m in Sources */ = {isa = PBXBuildFile; fileRef = 84F30D8C18CA429100C6753E /* MOTableViewControllerAlumnos.m */; };
-		84F30D9018CA43F100C6753E /* MODetalleViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 84F30D8F18CA43F100C6753E /* MODetalleViewController.m */; };
+		84909B3518D24BB4003F260E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 84909B3418D24BB4003F260E /* Foundation.framework */; };
+		84909B3718D24BB4003F260E /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 84909B3618D24BB4003F260E /* CoreGraphics.framework */; };
+		84909B3918D24BB4003F260E /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 84909B3818D24BB4003F260E /* UIKit.framework */; };
+		84909B3F18D24BB4003F260E /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 84909B3D18D24BB4003F260E /* InfoPlist.strings */; };
+		84909B4118D24BB4003F260E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 84909B4018D24BB4003F260E /* main.m */; };
+		84909B4518D24BB4003F260E /* MOAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 84909B4418D24BB4003F260E /* MOAppDelegate.m */; };
+		84909B4818D24BB4003F260E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84909B4618D24BB4003F260E /* Main.storyboard */; };
+		84909B4D18D24BB4003F260E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84909B4C18D24BB4003F260E /* Images.xcassets */; };
+		84909B5418D24BB4003F260E /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 84909B5318D24BB4003F260E /* XCTest.framework */; };
+		84909B5518D24BB4003F260E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 84909B3418D24BB4003F260E /* Foundation.framework */; };
+		84909B5618D24BB4003F260E /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 84909B3818D24BB4003F260E /* UIKit.framework */; };
+		84909B5E18D24BB4003F260E /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 84909B5C18D24BB4003F260E /* InfoPlist.strings */; };
+		84909B6018D24BB4003F260E /* EjemploModalTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 84909B5F18D24BB4003F260E /* EjemploModalTests.m */; };
+		84909B6B18D24CBC003F260E /* MOTableViewControllerAlumnos.m in Sources */ = {isa = PBXBuildFile; fileRef = 84909B6A18D24CBC003F260E /* MOTableViewControllerAlumnos.m */; };
+		84909B6E18D24EFD003F260E /* MODetalleViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 84909B6D18D24EFD003F260E /* MODetalleViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		84F30D7918CA420A00C6753E /* PBXContainerItemProxy */ = {
+		84909B5718D24BB4003F260E /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 84F30D4B18CA420900C6753E /* Project object */;
+			containerPortal = 84909B2918D24BB4003F260E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 84F30D5218CA420900C6753E;
+			remoteGlobalIDString = 84909B3018D24BB4003F260E;
 			remoteInfo = EjemploModal;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		84F30D5318CA420900C6753E /* EjemploModal.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EjemploModal.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		84F30D5618CA420A00C6753E /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		84F30D5818CA420A00C6753E /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		84F30D5A18CA420A00C6753E /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
-		84F30D5E18CA420A00C6753E /* EjemploModal-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "EjemploModal-Info.plist"; sourceTree = "<group>"; };
-		84F30D6018CA420A00C6753E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		84F30D6218CA420A00C6753E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		84F30D6418CA420A00C6753E /* EjemploModal-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "EjemploModal-Prefix.pch"; sourceTree = "<group>"; };
-		84F30D6518CA420A00C6753E /* MOAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MOAppDelegate.h; sourceTree = "<group>"; };
-		84F30D6618CA420A00C6753E /* MOAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MOAppDelegate.m; sourceTree = "<group>"; };
-		84F30D6918CA420A00C6753E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		84F30D6E18CA420A00C6753E /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		84F30D7418CA420A00C6753E /* EjemploModalTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EjemploModalTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		84F30D7518CA420A00C6753E /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
-		84F30D7D18CA420A00C6753E /* EjemploModalTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "EjemploModalTests-Info.plist"; sourceTree = "<group>"; };
-		84F30D7F18CA420A00C6753E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		84F30D8118CA420A00C6753E /* EjemploModalTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EjemploModalTests.m; sourceTree = "<group>"; };
-		84F30D8B18CA429100C6753E /* MOTableViewControllerAlumnos.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MOTableViewControllerAlumnos.h; sourceTree = "<group>"; };
-		84F30D8C18CA429100C6753E /* MOTableViewControllerAlumnos.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MOTableViewControllerAlumnos.m; sourceTree = "<group>"; };
-		84F30D8E18CA43F100C6753E /* MODetalleViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MODetalleViewController.h; sourceTree = "<group>"; };
-		84F30D8F18CA43F100C6753E /* MODetalleViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MODetalleViewController.m; sourceTree = "<group>"; };
+		84909B3118D24BB4003F260E /* EjemploModal.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EjemploModal.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		84909B3418D24BB4003F260E /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		84909B3618D24BB4003F260E /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		84909B3818D24BB4003F260E /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		84909B3C18D24BB4003F260E /* EjemploModal-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "EjemploModal-Info.plist"; sourceTree = "<group>"; };
+		84909B3E18D24BB4003F260E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		84909B4018D24BB4003F260E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		84909B4218D24BB4003F260E /* EjemploModal-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "EjemploModal-Prefix.pch"; sourceTree = "<group>"; };
+		84909B4318D24BB4003F260E /* MOAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MOAppDelegate.h; sourceTree = "<group>"; };
+		84909B4418D24BB4003F260E /* MOAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MOAppDelegate.m; sourceTree = "<group>"; };
+		84909B4718D24BB4003F260E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		84909B4C18D24BB4003F260E /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		84909B5218D24BB4003F260E /* EjemploModalTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EjemploModalTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		84909B5318D24BB4003F260E /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		84909B5B18D24BB4003F260E /* EjemploModalTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "EjemploModalTests-Info.plist"; sourceTree = "<group>"; };
+		84909B5D18D24BB4003F260E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		84909B5F18D24BB4003F260E /* EjemploModalTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EjemploModalTests.m; sourceTree = "<group>"; };
+		84909B6918D24CBC003F260E /* MOTableViewControllerAlumnos.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MOTableViewControllerAlumnos.h; sourceTree = "<group>"; };
+		84909B6A18D24CBC003F260E /* MOTableViewControllerAlumnos.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MOTableViewControllerAlumnos.m; sourceTree = "<group>"; };
+		84909B6C18D24EFD003F260E /* MODetalleViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MODetalleViewController.h; sourceTree = "<group>"; };
+		84909B6D18D24EFD003F260E /* MODetalleViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MODetalleViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		84F30D5018CA420900C6753E /* Frameworks */ = {
+		84909B2E18D24BB4003F260E /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				84F30D5918CA420A00C6753E /* CoreGraphics.framework in Frameworks */,
-				84F30D5B18CA420A00C6753E /* UIKit.framework in Frameworks */,
-				84F30D5718CA420A00C6753E /* Foundation.framework in Frameworks */,
+				84909B3718D24BB4003F260E /* CoreGraphics.framework in Frameworks */,
+				84909B3918D24BB4003F260E /* UIKit.framework in Frameworks */,
+				84909B3518D24BB4003F260E /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		84F30D7118CA420A00C6753E /* Frameworks */ = {
+		84909B4F18D24BB4003F260E /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				84F30D7618CA420A00C6753E /* XCTest.framework in Frameworks */,
-				84F30D7818CA420A00C6753E /* UIKit.framework in Frameworks */,
-				84F30D7718CA420A00C6753E /* Foundation.framework in Frameworks */,
+				84909B5418D24BB4003F260E /* XCTest.framework in Frameworks */,
+				84909B5618D24BB4003F260E /* UIKit.framework in Frameworks */,
+				84909B5518D24BB4003F260E /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		84F30D4A18CA420900C6753E = {
+		84909B2818D24BB4003F260E = {
 			isa = PBXGroup;
 			children = (
-				84F30D5C18CA420A00C6753E /* EjemploModal */,
-				84F30D7B18CA420A00C6753E /* EjemploModalTests */,
-				84F30D5518CA420900C6753E /* Frameworks */,
-				84F30D5418CA420900C6753E /* Products */,
+				84909B3A18D24BB4003F260E /* EjemploModal */,
+				84909B5918D24BB4003F260E /* EjemploModalTests */,
+				84909B3318D24BB4003F260E /* Frameworks */,
+				84909B3218D24BB4003F260E /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		84F30D5418CA420900C6753E /* Products */ = {
+		84909B3218D24BB4003F260E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				84F30D5318CA420900C6753E /* EjemploModal.app */,
-				84F30D7418CA420A00C6753E /* EjemploModalTests.xctest */,
+				84909B3118D24BB4003F260E /* EjemploModal.app */,
+				84909B5218D24BB4003F260E /* EjemploModalTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		84F30D5518CA420900C6753E /* Frameworks */ = {
+		84909B3318D24BB4003F260E /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				84F30D5618CA420A00C6753E /* Foundation.framework */,
-				84F30D5818CA420A00C6753E /* CoreGraphics.framework */,
-				84F30D5A18CA420A00C6753E /* UIKit.framework */,
-				84F30D7518CA420A00C6753E /* XCTest.framework */,
+				84909B3418D24BB4003F260E /* Foundation.framework */,
+				84909B3618D24BB4003F260E /* CoreGraphics.framework */,
+				84909B3818D24BB4003F260E /* UIKit.framework */,
+				84909B5318D24BB4003F260E /* XCTest.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		84F30D5C18CA420A00C6753E /* EjemploModal */ = {
+		84909B3A18D24BB4003F260E /* EjemploModal */ = {
 			isa = PBXGroup;
 			children = (
-				84F30D6518CA420A00C6753E /* MOAppDelegate.h */,
-				84F30D6618CA420A00C6753E /* MOAppDelegate.m */,
-				84F30D6818CA420A00C6753E /* Main.storyboard */,
-				84F30D8E18CA43F100C6753E /* MODetalleViewController.h */,
-				84F30D8F18CA43F100C6753E /* MODetalleViewController.m */,
-				84F30D8B18CA429100C6753E /* MOTableViewControllerAlumnos.h */,
-				84F30D8C18CA429100C6753E /* MOTableViewControllerAlumnos.m */,
-				84F30D6E18CA420A00C6753E /* Images.xcassets */,
-				84F30D5D18CA420A00C6753E /* Supporting Files */,
+				84909B4318D24BB4003F260E /* MOAppDelegate.h */,
+				84909B4418D24BB4003F260E /* MOAppDelegate.m */,
+				84909B4618D24BB4003F260E /* Main.storyboard */,
+				84909B6C18D24EFD003F260E /* MODetalleViewController.h */,
+				84909B6D18D24EFD003F260E /* MODetalleViewController.m */,
+				84909B6918D24CBC003F260E /* MOTableViewControllerAlumnos.h */,
+				84909B6A18D24CBC003F260E /* MOTableViewControllerAlumnos.m */,
+				84909B4C18D24BB4003F260E /* Images.xcassets */,
+				84909B3B18D24BB4003F260E /* Supporting Files */,
 			);
 			path = EjemploModal;
 			sourceTree = "<group>";
 		};
-		84F30D5D18CA420A00C6753E /* Supporting Files */ = {
+		84909B3B18D24BB4003F260E /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				84F30D5E18CA420A00C6753E /* EjemploModal-Info.plist */,
-				84F30D5F18CA420A00C6753E /* InfoPlist.strings */,
-				84F30D6218CA420A00C6753E /* main.m */,
-				84F30D6418CA420A00C6753E /* EjemploModal-Prefix.pch */,
+				84909B3C18D24BB4003F260E /* EjemploModal-Info.plist */,
+				84909B3D18D24BB4003F260E /* InfoPlist.strings */,
+				84909B4018D24BB4003F260E /* main.m */,
+				84909B4218D24BB4003F260E /* EjemploModal-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		84F30D7B18CA420A00C6753E /* EjemploModalTests */ = {
+		84909B5918D24BB4003F260E /* EjemploModalTests */ = {
 			isa = PBXGroup;
 			children = (
-				84F30D8118CA420A00C6753E /* EjemploModalTests.m */,
-				84F30D7C18CA420A00C6753E /* Supporting Files */,
+				84909B5F18D24BB4003F260E /* EjemploModalTests.m */,
+				84909B5A18D24BB4003F260E /* Supporting Files */,
 			);
 			path = EjemploModalTests;
 			sourceTree = "<group>";
 		};
-		84F30D7C18CA420A00C6753E /* Supporting Files */ = {
+		84909B5A18D24BB4003F260E /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				84F30D7D18CA420A00C6753E /* EjemploModalTests-Info.plist */,
-				84F30D7E18CA420A00C6753E /* InfoPlist.strings */,
+				84909B5B18D24BB4003F260E /* EjemploModalTests-Info.plist */,
+				84909B5C18D24BB4003F260E /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -160,13 +160,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		84F30D5218CA420900C6753E /* EjemploModal */ = {
+		84909B3018D24BB4003F260E /* EjemploModal */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 84F30D8518CA420A00C6753E /* Build configuration list for PBXNativeTarget "EjemploModal" */;
+			buildConfigurationList = 84909B6318D24BB4003F260E /* Build configuration list for PBXNativeTarget "EjemploModal" */;
 			buildPhases = (
-				84F30D4F18CA420900C6753E /* Sources */,
-				84F30D5018CA420900C6753E /* Frameworks */,
-				84F30D5118CA420900C6753E /* Resources */,
+				84909B2D18D24BB4003F260E /* Sources */,
+				84909B2E18D24BB4003F260E /* Frameworks */,
+				84909B2F18D24BB4003F260E /* Resources */,
 			);
 			buildRules = (
 			);
@@ -174,43 +174,43 @@
 			);
 			name = EjemploModal;
 			productName = EjemploModal;
-			productReference = 84F30D5318CA420900C6753E /* EjemploModal.app */;
+			productReference = 84909B3118D24BB4003F260E /* EjemploModal.app */;
 			productType = "com.apple.product-type.application";
 		};
-		84F30D7318CA420A00C6753E /* EjemploModalTests */ = {
+		84909B5118D24BB4003F260E /* EjemploModalTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 84F30D8818CA420A00C6753E /* Build configuration list for PBXNativeTarget "EjemploModalTests" */;
+			buildConfigurationList = 84909B6618D24BB4003F260E /* Build configuration list for PBXNativeTarget "EjemploModalTests" */;
 			buildPhases = (
-				84F30D7018CA420A00C6753E /* Sources */,
-				84F30D7118CA420A00C6753E /* Frameworks */,
-				84F30D7218CA420A00C6753E /* Resources */,
+				84909B4E18D24BB4003F260E /* Sources */,
+				84909B4F18D24BB4003F260E /* Frameworks */,
+				84909B5018D24BB4003F260E /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				84F30D7A18CA420A00C6753E /* PBXTargetDependency */,
+				84909B5818D24BB4003F260E /* PBXTargetDependency */,
 			);
 			name = EjemploModalTests;
 			productName = EjemploModalTests;
-			productReference = 84F30D7418CA420A00C6753E /* EjemploModalTests.xctest */;
+			productReference = 84909B5218D24BB4003F260E /* EjemploModalTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		84F30D4B18CA420900C6753E /* Project object */ = {
+		84909B2918D24BB4003F260E /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				CLASSPREFIX = MO;
 				LastUpgradeCheck = 0500;
-				ORGANIZATIONNAME = "Jorge Flores";
+				ORGANIZATIONNAME = Iniciales;
 				TargetAttributes = {
-					84F30D7318CA420A00C6753E = {
-						TestTargetID = 84F30D5218CA420900C6753E;
+					84909B5118D24BB4003F260E = {
+						TestTargetID = 84909B3018D24BB4003F260E;
 					};
 				};
 			};
-			buildConfigurationList = 84F30D4E18CA420900C6753E /* Build configuration list for PBXProject "EjemploModal" */;
+			buildConfigurationList = 84909B2C18D24BB4003F260E /* Build configuration list for PBXProject "EjemploModal" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -218,89 +218,89 @@
 				en,
 				Base,
 			);
-			mainGroup = 84F30D4A18CA420900C6753E;
-			productRefGroup = 84F30D5418CA420900C6753E /* Products */;
+			mainGroup = 84909B2818D24BB4003F260E;
+			productRefGroup = 84909B3218D24BB4003F260E /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				84F30D5218CA420900C6753E /* EjemploModal */,
-				84F30D7318CA420A00C6753E /* EjemploModalTests */,
+				84909B3018D24BB4003F260E /* EjemploModal */,
+				84909B5118D24BB4003F260E /* EjemploModalTests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		84F30D5118CA420900C6753E /* Resources */ = {
+		84909B2F18D24BB4003F260E /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				84F30D6F18CA420A00C6753E /* Images.xcassets in Resources */,
-				84F30D6118CA420A00C6753E /* InfoPlist.strings in Resources */,
-				84F30D6A18CA420A00C6753E /* Main.storyboard in Resources */,
+				84909B4D18D24BB4003F260E /* Images.xcassets in Resources */,
+				84909B3F18D24BB4003F260E /* InfoPlist.strings in Resources */,
+				84909B4818D24BB4003F260E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		84F30D7218CA420A00C6753E /* Resources */ = {
+		84909B5018D24BB4003F260E /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				84F30D8018CA420A00C6753E /* InfoPlist.strings in Resources */,
+				84909B5E18D24BB4003F260E /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		84F30D4F18CA420900C6753E /* Sources */ = {
+		84909B2D18D24BB4003F260E /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				84F30D6718CA420A00C6753E /* MOAppDelegate.m in Sources */,
-				84F30D6318CA420A00C6753E /* main.m in Sources */,
-				84F30D9018CA43F100C6753E /* MODetalleViewController.m in Sources */,
-				84F30D8D18CA429100C6753E /* MOTableViewControllerAlumnos.m in Sources */,
+				84909B4518D24BB4003F260E /* MOAppDelegate.m in Sources */,
+				84909B4118D24BB4003F260E /* main.m in Sources */,
+				84909B6E18D24EFD003F260E /* MODetalleViewController.m in Sources */,
+				84909B6B18D24CBC003F260E /* MOTableViewControllerAlumnos.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		84F30D7018CA420A00C6753E /* Sources */ = {
+		84909B4E18D24BB4003F260E /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				84F30D8218CA420A00C6753E /* EjemploModalTests.m in Sources */,
+				84909B6018D24BB4003F260E /* EjemploModalTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		84F30D7A18CA420A00C6753E /* PBXTargetDependency */ = {
+		84909B5818D24BB4003F260E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 84F30D5218CA420900C6753E /* EjemploModal */;
-			targetProxy = 84F30D7918CA420A00C6753E /* PBXContainerItemProxy */;
+			target = 84909B3018D24BB4003F260E /* EjemploModal */;
+			targetProxy = 84909B5718D24BB4003F260E /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		84F30D5F18CA420A00C6753E /* InfoPlist.strings */ = {
+		84909B3D18D24BB4003F260E /* InfoPlist.strings */ = {
 			isa = PBXVariantGroup;
 			children = (
-				84F30D6018CA420A00C6753E /* en */,
+				84909B3E18D24BB4003F260E /* en */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
 		};
-		84F30D6818CA420A00C6753E /* Main.storyboard */ = {
+		84909B4618D24BB4003F260E /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				84F30D6918CA420A00C6753E /* Base */,
+				84909B4718D24BB4003F260E /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		84F30D7E18CA420A00C6753E /* InfoPlist.strings */ = {
+		84909B5C18D24BB4003F260E /* InfoPlist.strings */ = {
 			isa = PBXVariantGroup;
 			children = (
-				84F30D7F18CA420A00C6753E /* en */,
+				84909B5D18D24BB4003F260E /* en */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
@@ -308,7 +308,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		84F30D8318CA420A00C6753E /* Debug */ = {
+		84909B6118D24BB4003F260E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -347,7 +347,7 @@
 			};
 			name = Debug;
 		};
-		84F30D8418CA420A00C6753E /* Release */ = {
+		84909B6218D24BB4003F260E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -380,7 +380,7 @@
 			};
 			name = Release;
 		};
-		84F30D8618CA420A00C6753E /* Debug */ = {
+		84909B6418D24BB4003F260E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -393,7 +393,7 @@
 			};
 			name = Debug;
 		};
-		84F30D8718CA420A00C6753E /* Release */ = {
+		84909B6518D24BB4003F260E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -406,7 +406,7 @@
 			};
 			name = Release;
 		};
-		84F30D8918CA420A00C6753E /* Debug */ = {
+		84909B6718D24BB4003F260E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
@@ -429,7 +429,7 @@
 			};
 			name = Debug;
 		};
-		84F30D8A18CA420A00C6753E /* Release */ = {
+		84909B6818D24BB4003F260E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
@@ -451,32 +451,32 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		84F30D4E18CA420900C6753E /* Build configuration list for PBXProject "EjemploModal" */ = {
+		84909B2C18D24BB4003F260E /* Build configuration list for PBXProject "EjemploModal" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				84F30D8318CA420A00C6753E /* Debug */,
-				84F30D8418CA420A00C6753E /* Release */,
+				84909B6118D24BB4003F260E /* Debug */,
+				84909B6218D24BB4003F260E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		84F30D8518CA420A00C6753E /* Build configuration list for PBXNativeTarget "EjemploModal" */ = {
+		84909B6318D24BB4003F260E /* Build configuration list for PBXNativeTarget "EjemploModal" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				84F30D8618CA420A00C6753E /* Debug */,
-				84F30D8718CA420A00C6753E /* Release */,
+				84909B6418D24BB4003F260E /* Debug */,
+				84909B6518D24BB4003F260E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		84F30D8818CA420A00C6753E /* Build configuration list for PBXNativeTarget "EjemploModalTests" */ = {
+		84909B6618D24BB4003F260E /* Build configuration list for PBXNativeTarget "EjemploModalTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				84F30D8918CA420A00C6753E /* Debug */,
-				84F30D8A18CA420A00C6753E /* Release */,
+				84909B6718D24BB4003F260E /* Debug */,
+				84909B6818D24BB4003F260E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 84F30D4B18CA420900C6753E /* Project object */;
+	rootObject = 84909B2918D24BB4003F260E /* Project object */;
 }

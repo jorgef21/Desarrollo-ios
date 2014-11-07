@@ -10,4 +10,7 @@
 
 @interface CAEstadosViewController : UITableViewController
 
+-(void)parsear:(NSData *)urlData;
+//@property estados;
+-(void)generarJSON:(id)sender;
 @end

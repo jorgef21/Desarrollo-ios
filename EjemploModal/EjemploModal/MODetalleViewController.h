@@ -2,8 +2,8 @@
 //  MODetalleViewController.h
 //  EjemploModal
 //
-//  Created by Jorge Flores on 3/7/14.
-//  Copyright (c) 2014 Jorge Flores. All rights reserved.
+//  Created by Jorge Flores on 3/13/14.
+//  Copyright (c) 2014 Iniciales. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
@@ -11,18 +11,14 @@
 @protocol AlumnoDetallesViewControllerDelegate <NSObject>
 
 -(void)AlumnoDetallesViewControllerDelegateDidSave:(MODetalleViewController *) controller;
--(void)AlumnoDetallesViewControllerDelegateDidCancel:(MODetalleViewController *)controller;
+-(void)AlumnoDetallesViewControllerDelegateDidCancel:(MODetalleViewController *) controller;
 
 @end
-
-
-@interface MODetalleViewController : UITableViewController <AlumnoDetallesViewControllerDelegate>
-
-@property (nonatomic,weak)id <AlumnoDetallesViewControllerDelegate> delegate;
-
-- (IBAction)cancel:(id)sender;
-
-- (IBAction)done:(id)sender;
+@interface MODetalleViewController : UITableViewController
+@property (nonatomic,weak) id <AlumnoDetallesViewControllerDelegate> delegate;
+-(IBAction)done:(id)sender;
+-(IBAction)cancel:(id)sender;
 @property (weak, nonatomic) IBOutlet UITextField *nombre;
+
 
 @end

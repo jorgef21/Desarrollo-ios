@@ -26,10 +26,13 @@ NSArray* estados;
 
 - (void)viewDidLoad
 {
+    NSURL *url=[NSURL URLWithString:@"https://www.dropbox.com/s/3hgvvecfx3brh1g/Mexico-Estados.json"];
+    
+    
     [super viewDidLoad];
 
-  estados=[NSArray arrayWithObjects:[NSArray arrayWithObjects:@"Sinaloa",@"Los Mochis",@"Culiacan",@"Mazatlan", nil],
-           [NSArray arrayWithObjects:@"Sonora",@"Obregon",@"Hermosillo",@"Nogales", nil],[NSArray arrayWithObjects:@"Chihuaha",@"Chihuahua",@"Parral",@"Ciudad Juarez", nil],nil];
+ estados=[NSArray arrayWithObjects:[NSArray arrayWithObjects:@"Sinaloa",@"Los Mochis",@"Culiacan",@"Mazatlan", nil],
+        [NSArray arrayWithObjects:@"Sonora",@"Obregon",@"Hermosillo",@"Nogales", nil],[NSArray arrayWithObjects:@"Chihuaha",@"Chihuahua",@"Parral",@"Ciudad Juarez", nil],nil];
 }
 -(void)viewDidUnload{
     estados=nil;
@@ -122,6 +125,23 @@ NSArray* estados;
     
 }
 
- 
+
+-(void)parsear:(NSData *)urlData{
+    NSError *error=nil;
+    NSDictionary *jsonDic=[NSJSONSerialization JSONObjectWithData:urlData options:kNilOptions error:&error];
+    
+    if(error!=nil){
+        NSLog(@"Error: %@",[error localizedDescription] );
+    }
+    else{
+       // self.estados=[jsonDic objectForKey:@"estado"];
+    }
+    
+    
+}
+-(void)generarJSON:(id)sender{
+    NSError *error=nil;
+   NSData
+}
 
 @end

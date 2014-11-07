@@ -29,6 +29,8 @@
 @synthesize texto2;
 @synthesize etiqueta;
 - (IBAction)procesar:(id)sender {
+    
+    
     int x=texto.text;
     int y=texto2.text;
     

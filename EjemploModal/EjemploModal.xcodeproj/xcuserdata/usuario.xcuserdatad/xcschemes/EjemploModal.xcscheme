@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "84F30D5218CA420900C6753E"
+               BlueprintIdentifier = "84909B3018D24BB4003F260E"
                BuildableName = "EjemploModal.app"
                BlueprintName = "EjemploModal"
                ReferencedContainer = "container:EjemploModal.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "84F30D7318CA420A00C6753E"
+               BlueprintIdentifier = "84909B5118D24BB4003F260E"
                BuildableName = "EjemploModalTests.xctest"
                BlueprintName = "EjemploModalTests"
                ReferencedContainer = "container:EjemploModal.xcodeproj">
@@ -42,7 +42,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "84F30D5218CA420900C6753E"
+            BlueprintIdentifier = "84909B3018D24BB4003F260E"
             BuildableName = "EjemploModal.app"
             BlueprintName = "EjemploModal"
             ReferencedContainer = "container:EjemploModal.xcodeproj">
@@ -61,7 +61,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "84F30D5218CA420900C6753E"
+            BlueprintIdentifier = "84909B3018D24BB4003F260E"
             BuildableName = "EjemploModal.app"
             BlueprintName = "EjemploModal"
             ReferencedContainer = "container:EjemploModal.xcodeproj">
@@ -79,7 +79,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "84F30D5218CA420900C6753E"
+            BlueprintIdentifier = "84909B3018D24BB4003F260E"
             BuildableName = "EjemploModal.app"
             BlueprintName = "EjemploModal"
             ReferencedContainer = "container:EjemploModal.xcodeproj">
